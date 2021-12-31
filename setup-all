@@ -1,0 +1,7 @@
+#!/bin/bash
+files="vimrc bashrc"
+
+for file in $files; do
+ # ln - make links between files
+   ln -s ~/dotfiles/$file ~/.$file
+done
