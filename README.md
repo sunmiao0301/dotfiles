@@ -45,13 +45,13 @@
 
 [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 
-### vim
+### 助教的点文件
 
-关于vim，闲时再看
+[anishathalye](https://github.com/anishathalye/dotfiles)
 
-[anishathalye/dotfiles/vimrc](https://github.com/anishathalye/dotfiles/blob/master/vimrc)
+[JJGO](https://github.com/JJGO/dotfiles)
 
-[JJGO/dotfiles/vim/.vimrc](https://github.com/JJGO/dotfiles/blob/master/vim/.vimrc)
+[jonhoo](https://github.com/jonhoo/configs)
 
 ### 更多
 
