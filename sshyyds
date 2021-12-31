@@ -1,0 +1,2 @@
+ssh yyds - a message from msun@10.10.8.57
+with https, you cant git clone anything from github even thats your repo (cos no one knows), but if you configure ssh between your server (without proxy) and your github, you can git clone your own repo with ssh (ignoring The GFW!)
